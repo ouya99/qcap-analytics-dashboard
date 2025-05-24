@@ -1,4 +1,3 @@
-'use client'; // This is a client component 👈🏽
 /* global BigInt */
 
 import React, { createContext, useContext, useEffect, useState } from 'react';

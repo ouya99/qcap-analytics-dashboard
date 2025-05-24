@@ -1,4 +1,3 @@
-'use client'; // This is a client component 👈🏽
 // src/contexts/SnackbarContext.jsx
 import React, { createContext, useState, useContext } from 'react';
 import { Snackbar, Alert } from '@mui/material';
