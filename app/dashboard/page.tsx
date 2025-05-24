@@ -1,3 +1,4 @@
+'use client';
 import { Tabs, TabsContent, TabsList, TabsTrigger } from '@/components/ui/tabs';
 import VotingDashboard from '@/components/dashboard/voting-dashboard';
 import AllocationDashboard from '@/components/dashboard/allocation-dashboard';
